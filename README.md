@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ## Example
 
 ```bash
-python sniff3.py
+python Net-Sniff.py
 ```
 
 The packet sniffer will start capturing packets on the specified network interface. If the packet count exceeds the set limit for certain protocols (e.g., FTP, SSH, ICMP), it will trigger an alert.
