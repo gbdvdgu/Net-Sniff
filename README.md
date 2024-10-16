@@ -21,8 +21,8 @@ This is a network packet sniffer built using Python and the `scapy` library. It 
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/gbdvdgu/Net-Sniff
+cd Net-Sniff
 pip install -r requirements.txt
 ```
 
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 1. Run the script:
 
    ```bash
-   python sniff3.py
+   python Net-Sniff.py
    ```
 
 2. Follow the on-screen menu to start sniffing packets, set alerts, or adjust configurations.
